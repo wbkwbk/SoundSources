@@ -1,0 +1,4 @@
+{
+  "name": "Balrog Sounds media toolchain",
+  "install": "bash .cursor/install.sh"
+}
